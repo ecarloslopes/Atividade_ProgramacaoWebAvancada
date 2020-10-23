@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:14:44:42 -0300] "GET /intro-spring HTTP/1.1" 302 - http-bio-9090-exec-2 0
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:14:44:43 -0300] "GET /intro-spring/ HTTP/1.1" 200 158 http-bio-9090-exec-3 89
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:14:44:43 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:14:47:39 -0300] "GET /intro-spring HTTP/1.1" 302 - http-bio-9090-exec-7 0
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:14:47:39 -0300] "GET /intro-spring/ HTTP/1.1" 200 158 http-bio-9090-exec-8 2
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:14:47:45 -0300] "GET /intro-spring/ HTTP/1.1" 200 158 http-bio-9090-exec-9 2
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:14:47:45 -0300] "GET /intro-spring/ HTTP/1.1" 200 158 http-bio-9090-exec-10 2
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:14:47:59 -0300] "GET /intro-spring/outraforma HTTP/1.1" 200 278 http-bio-9090-exec-10 114
+0:0:0:0:0:0:0:1 - - [13/Oct/2020:14:53:31 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
